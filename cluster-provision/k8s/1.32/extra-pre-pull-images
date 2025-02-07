@@ -7,7 +7,7 @@ ghcr.io/k8snetworkplumbingwg/whereabouts:v0.8.0
 ghcr.io/kubevirt/ipam-controller@sha256:aad40edd34f65cf0e087969853d47065aaf411dccf618d196152b583d40300ba
 ghcr.io/kubevirt/kubesecondarydns@sha256:44489bdf8affb0e82b68a7100bbee7d289151ada54ab2e76a9d3afef769a1f54
 ghcr.io/kubevirt/passt-binding-cni@sha256:981c01e0b94ae691ba8ced43c486930085186e9c40b22525c8f0229d1556ee69
-grafana/grafana:11.1.0
+docker.io/grafana/grafana:11.1.0
 quay.io/brancz/kube-rbac-proxy:v0.18.0
 quay.io/brancz/kube-rbac-proxy:v0.8.0
 quay.io/ceph/ceph:v19
@@ -30,6 +30,7 @@ quay.io/openshift/origin-kube-rbac-proxy@sha256:e2def4213ec0657e72eb790ae8a11551
 quay.io/prometheus/alertmanager:v0.27.0
 quay.io/prometheus/node-exporter:v1.8.1
 quay.io/prometheus-operator/prometheus-operator:v0.75.1
+quay.io/prometheus-operator/prometheus-config-reloader:v0.75.1
 quay.io/prometheus/prometheus:v2.53.0
 registry.k8s.io/coredns/coredns@sha256:a0ead06651cf580044aeb0a0feba63591858fb2e43ade8c9dea45a6a89ae7e5e
 registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.1.0
